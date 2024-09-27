@@ -12,9 +12,11 @@ This command line utility uses the Snyk API to export the list of all reported i
 
 First, Install the Snyk JSON to HTML Mapper using npm:
 
-`npm install snyk-issues-to-html -g`
+`npm install snyk-to-html -g`
 
 Alternatively, you can skip this step, clone this repository and run the script locally (using `node ./bin/cli.js`)
+
+See the Snyk [snyk-to-html documentation](https://docs.snyk.io/snyk-cli/scan-and-maintain-projects-using-the-cli/cli-tools/snyk-to-html) for more information about this tool.
 
 ## Generate the HTML report
 
